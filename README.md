@@ -1,9 +1,17 @@
-Dojo-PHP-Distribuição-de-Mictórios-27-09-2014
+Dojo-PHP-Caixa-Eletronico-27-09-2014
 ==========================================
 
-Este problema foi utilizado em 96 Dojo(s).
+Este problema foi utilizado em 436 Dojo(s).
 
-Um problema enfrentado pelos homens no uso de mictórios em banheiros públicos é o constrangimento causado por outro homem urinando no mictório ao lado. Uma situação contrangedora é definida quando dois "mijões" deveriam ocupar mictórios adjacentes.
-Dada uma quantidade de mictórios em um banheiro e a ocupação inicial deles (informando em qual deles já existe um "mijão"), determine quantos "mijões" ainda podem usar os mictórios e qual a posição deles antes para que não ocorra uma situação constrangedora.
+Desenvolva um programa que simule a entrega de notas quando um cliente efetuar um saque em um caixa eletrônico. Os requisitos básicos são os seguintes:
 
-Fonte do problema: http://dojopuzzles.com/problemas/exibe/distribuicao-de-mictorios/
+Entregar o menor número de notas;
+    É possível sacar o valor solicitado com as notas disponíveis;
+    Saldo do cliente infinito;
+    Quantidade de notas infinito (pode-se colocar um valor finito de cédulas para aumentar a dificuldade do problema);
+    Notas disponíveis de R$ 100,00; R$ 50,00; R$ 20,00 e R$ 10,00
+    Exemplos:
+        Valor do Saque: R$ 30,00 – Resultado Esperado: Entregar 1 nota de R$20,00 e 1 nota de R$ 10,00.
+        Valor do Saque: R$ 80,00 – Resultado Esperado: Entregar 1 nota de R$50,00 1 nota de R$ 20,00 e 1 nota de R$ 10,00.
+
+Fonte do problema: http://dojopuzzles.com/problemas/exibe/caixa-eletronico/
